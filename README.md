@@ -1,4 +1,4 @@
-# Curso de Imersão em Ciência de Dados
+# Data Science and Machine Learning Immserion Course
 
-Jupyter notebooks do Curso de Imersão em Ciência de Dados
+Jupyter notebooks from the Data Science Immersion Course
 
